@@ -1,0 +1,7 @@
+# Dataset and test videos are too large to be uploaded
+dataset/
+videos/
+output/
+
+# Virtual environment folder
+project/
